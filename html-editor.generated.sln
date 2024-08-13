@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "html-editor", "html-editor.csproj", "{A3343F77-E73B-40A3-A64B-ED707EC5AA1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "html-editor", "html-editor.csproj", "{DE6B4F8D-F16E-417D-B0EB-CBB48F74395F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A3343F77-E73B-40A3-A64B-ED707EC5AA1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A3343F77-E73B-40A3-A64B-ED707EC5AA1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A3343F77-E73B-40A3-A64B-ED707EC5AA1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A3343F77-E73B-40A3-A64B-ED707EC5AA1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE6B4F8D-F16E-417D-B0EB-CBB48F74395F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE6B4F8D-F16E-417D-B0EB-CBB48F74395F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE6B4F8D-F16E-417D-B0EB-CBB48F74395F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE6B4F8D-F16E-417D-B0EB-CBB48F74395F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
